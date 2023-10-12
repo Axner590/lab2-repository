@@ -6,6 +6,7 @@ public class Primes {
             }
         }
     }
+    //This is the first change to the file. Just adding some commentary
     public static boolean isPrime(int n){
         for(int i = 2; i < n; i++){
             if(n % i == 0){
