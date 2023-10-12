@@ -6,3 +6,4 @@ public class Palindrome {
     }
 }
 //This is the first commit in new branch
+//This is the second commit in new branch. Merging with master soon!
